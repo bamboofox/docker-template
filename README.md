@@ -1,3 +1,13 @@
 # Docker Template
 
-Dokcer Template for bamboofox.cs.nctu.edu.tw 
+Dokcer Template for [BambooFox Website](bamboofox.cs.nctu.edu.tw)
+
+
+# How To Use
+
+```
+cd pwn
+docker-compose up -d
+nc localhost 10000
+start pwn ~~
+```
